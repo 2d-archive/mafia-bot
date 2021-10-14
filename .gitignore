@@ -1,0 +1,9 @@
+# environment variables
+*.env
+
+# editor settings
+.vscode
+.idea
+
+# sqlite
+mafia.sql
